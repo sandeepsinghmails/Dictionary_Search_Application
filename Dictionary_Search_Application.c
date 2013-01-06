@@ -38,7 +38,7 @@ typedef struct node
 {
 	char 	data;
 	bool 	end_of_word_flag;				
-	int 	num_word_occurrences;
+	int 	num_word_occurrences;			/* For Use in the Next Release */
 	struct node *next_node[MAX_ALPHABETS];
 } TrieNode;
 
