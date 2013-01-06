@@ -5,13 +5,15 @@ Using this Application, the User can create and Search a Dictionary of Words.
 
 This Application has been implemented Using Trie Data Structure.
 
+The Permitted Set of Input Characters is: [a.....z]
+
 **Supported Operations**
 
 The Current Version supports only 2 basic operations: 
 - Word Insertion 
 - Word Search
 
-**What is expected in Future Release ?**
+**What is expected in the Future Release ?**
 The next release will be packed with more features. Also, the current implentation is done using a Standard Trie Data Structure. I will be replacing the same with a Compressed Version.
 
 **How To Compile the Dictionary Search Application ?**
