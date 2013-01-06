@@ -1,7 +1,7 @@
 **Dictionary Search Application**
 =================================
 
-Using this Application, the User can create and Search a Dictionary of Words.
+Using this Application, the User can Create and Search a Dictionary of Words.
 
 This Application has been implemented Using Trie Data Structure.
 
